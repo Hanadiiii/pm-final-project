@@ -1,4 +1,4 @@
-# Problem Hook & Value Proposition — [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition — RouteLogic Velocity
 
 > Module 1 · Develop Strategic Product Thinking — ★ Deliverable 1 (Part A)
 >
@@ -7,48 +7,38 @@
 
 ## 1. Chosen scenario
 
-**Path:** _StreamLine Spotlight (B2C) · RouteLogic Velocity (B2B) · my own initiative_
+**Path:** RouteLogic Velocity (B2B)
 
-_One line on why you picked it._
+I chose RouteLogic because its B2B workflow and operational-efficiency challenges closely align with my product management experience in debt crowdfunding.
 
 ## 2. The strategic crisis
 
-_The big-picture business risk. If the company does nothing for 12 months, what happens to its market position?_
-
-> If we do nothing for 12 months, the company will…
+If RouteLogic does nothing for the next 12 months, it risks losing enterprise customers to simpler and faster competitors. This could increase customer churn, reduce revenue, and weaken the company’s market position.
 
 ## 3. The moment of misery
 
-_The specific point where the product fails the user, forcing a manual workaround (Google, spreadsheets, group texts, a competitor)._
-
-> The user is currently forced to…
+Frontline coordinators are currently forced to use spreadsheets, messages, and repetitive manual workarounds to complete everyday logistics tasks because RouteLogic’s workflows are too complex and time-consuming.
 
 ## 4. Problem hook
 
-_One urgent sentence fusing the business risk and the user pain — your pitch for why this is the most important thing to work on right now._
-
-> We must solve [business risk] by addressing [user pain]…
+We must prevent the loss of enterprise customers by eliminating the complex workflows and administrative work that force frontline coordinators to rely on slow, error-prone manual workarounds.
 
 ## 5. Value proposition
 
-_Who it's for, the new value, and why it's urgent to launch now._
-
-> For **[who]**, we will **[value]** because **[urgent why]**.
+For **frontline logistics coordinators**, Velocity will **simplify high-friction workflows so they can complete daily tasks with fewer steps, less manual work, and fewer errors**, because **RouteLogic must restore user trust and speed before more enterprise customers switch to leaner competitors**.
 
 ## 6. Cold-read self-review
 
-_Read your hook back as a skeptical stakeholder. If you don't feel the urgency, that's your data._
-
 | Question | Your answer |
 |---|---|
-| Is the business risk high-stakes enough to justify a new initiative? | _____ |
-| Is the moment of misery systemic, or just an edge case? | _____ |
-| Does the value proposition actually remove the obstacle? | _____ |
+| Is the business risk high-stakes enough to justify a new initiative? | Yes. Losing enterprise customers to faster, simpler competitors is a high-stakes threat that could reduce revenue and weaken RouteLogic’s market position. |
+| Is the moment of misery systemic, or just an edge case? | It is systemic because frontline coordinators experience the same workflow complexity, repetitive administrative tasks, and manual workarounds every day. |
+| Does the value proposition actually remove the obstacle? | Yes. Velocity directly addresses the obstacle by simplifying high-friction workflows, reducing unnecessary steps and manual work, and helping coordinators complete tasks faster with fewer errors. |
 
-## 7. Finalized hypothesis _(complete in Module 3)_
+## 7. Finalized hypothesis *(complete in Module 3)*
 
-> Based on [qual + quant evidence], I believe that [solving X] for [persona] will result in [outcome], as measured by a [X%] change in [success metric]. I will protect [guardrail metric] and make a go/no-go decision after [decision window].
+> To be completed in Module 3 after gathering qualitative and quantitative evidence.
 
 ## Link to full artifact
 
-_[link to your Problem Hook Builder export / Slide 1 of your deliverables deck]_
+*To be added after exporting the final Problem Hook Builder artifact.*
