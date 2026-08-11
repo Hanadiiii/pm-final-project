@@ -8,9 +8,9 @@ This project focuses on **RouteLogic Velocity**, a B2B initiative that simplifie
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ✅ | `01-product-thinking/problem-hook.md` |
-| 2 | **Competitive Analysis & Journey Map** | M2 | ✅ | `02-discovery/competitive-and-journey.md` |
-| 3 | **Hypothesis & Success Metrics** | M3 | ✅ | `03-analytics/hypothesis-and-metrics.md` |
+| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☑ | `01-product-thinking/problem-hook.md` |
+| 2 | **Competitive Analysis & Journey Map** | M2 | ☑ | `02-discovery/competitive-and-journey.md` |
+| 3 | **Hypothesis & Success Metrics** | M3 | ☑ | `03-analytics/hypothesis-and-metrics.md` |
 | 4 | **Roadmap, PRD & Prototype** | M4 | ☐ | `04-roadmap/roadmap-prd-prototype.md` |
 | 5 | **Experimentation Plan** | M5 | ☐ | `05-experimentation/experimentation-plan.md` |
 | 6 | **GTM Strategy & Success Dashboard** | M6 | ☐ | `06-launch/gtm-and-dashboard.md` |
