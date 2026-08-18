@@ -25,4 +25,6 @@ RouteLogic Velocity simplifies compliance checks and shift handoff for frontline
 
 The research started by focusing on delivery drivers and their use of messages, phone calls, screenshots, and paper backups when RouteLogic failed.
 
-After reviewing the Module 3 data, the project shifted toward frontline logistics coordinators. The data showed that 69% of coordinators do not complete the workflow after route assignment, compliance checks take 14.6 minutes compared with a 3-minute benchmark, and Coordinator N
+After reviewing the Module 3 data, the project shifted toward frontline logistics coordinators. The data showed that 69% of coordinators do not complete the workflow after route assignment, compliance checks take 14.6 minutes compared with a 3-minute benchmark, and Coordinator NPS dropped from +18 to -12.
+
+Module 2 remains a record of the original driver research. Modules 3 and 4 focus on the coordinator workflow because the quantitative data showed a larger measurable opportunity.
