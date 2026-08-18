@@ -65,7 +65,7 @@ Compliance checks take 14.6 minutes compared with the 3-minute benchmark, and ma
 
 - Open the checklist from the assigned route.
 - Pre-fill available compliance information.
-- Allow coordinators to review and edit the information.
+- Allow coordinators to review pre-filled information and edit compliance fields that need input.
 - Flag missing required information.
 - Block submission when required information is missing or invalid.
 - Require review confirmation before submission.
