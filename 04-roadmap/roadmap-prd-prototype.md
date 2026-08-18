@@ -31,6 +31,7 @@ RouteLogic Velocity focuses on simplifying compliance and shift handoff for fron
 - B8 · Fleet Analytics Manager View
 
 The Now features directly address the main coordinator friction and fit the four-week pilot scope.
+The roadmap covers the first four-week pilot phase. Measurement continues through the eight-week decision window defined in Module 3.
 
 ![RouteLogic Velocity roadmap](./routelogic-roadmap.png)
 
