@@ -15,7 +15,7 @@ RouteLogic Velocity is a B2B initiative that simplifies compliance checks and sh
 | 5 | Experimentation Plan | M5 | ☑ | `05-experimentation/experimentation-plan.md` |
 | 6 | GTM Strategy & Success Dashboard | M6 | ☑ | `06-launch/gtm-and-dashboard.md` |
 | 7 | Individual Insights | M6 | ☑ | `06-launch/individual-insights.md` |
-| ★ | Final Project Presentation | M6 | ☐ | `06-launch/final-presentation.html` |
+| ★ | Final Project Presentation | M6 | ☑ | `06-launch/final-presentation.html` |
 
 ## The project in one sentence
 
